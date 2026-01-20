@@ -60,3 +60,14 @@ data= {
 };
 
 console.log(data);
+
+let sampleData:Record<number,number>;
+
+sampleData = {
+    1 : 1,
+    2 : 2
+};
+
+
+
+console.log(sampleData);

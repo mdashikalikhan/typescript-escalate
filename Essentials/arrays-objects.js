@@ -25,3 +25,15 @@ var user = {
 console.log(user);
 var val = 'is a value';
 console.log(val);
+var data;
+data = {
+    entry1: 1,
+    entry2: 'one'
+};
+console.log(data);
+var sampleData;
+sampleData = {
+    1: 1,
+    2: 2
+};
+console.log(sampleData);
