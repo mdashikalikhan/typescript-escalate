@@ -7,7 +7,7 @@ users.push('2');
 console.log(users);
 console.log(hobbies);
 var names;
-names = ['1', 'one'];
+names = ['1', 'one', 2];
 console.log(names);
 //Fixed length array - tuples
 var possibleResults;

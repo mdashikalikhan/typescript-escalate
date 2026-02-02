@@ -16,7 +16,7 @@ console.log(hobbies);
 
 let names:Array<string|number>;
 
-names=['1', 'one'];
+names=['1', 'one', 2];
 
 console.log(names);
 
