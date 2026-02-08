@@ -22,7 +22,7 @@ console.log(names);
 
 //Fixed length array - tuples
 
-let possibleResults: [number, number];
+let possibleResults: [number, number|boolean];
 
 possibleResults = [1, -1];
 

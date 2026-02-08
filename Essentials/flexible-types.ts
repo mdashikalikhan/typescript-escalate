@@ -5,3 +5,7 @@ age = '90';
 // age=false;
 // age={};
 // age=[];
+
+let myName = "John";
+
+myName += 28;
