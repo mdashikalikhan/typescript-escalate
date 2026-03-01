@@ -2,3 +2,5 @@ tsc --init
 
 npm install -g typescript
 
+tsc --watch
+
