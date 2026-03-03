@@ -4,3 +4,9 @@ npm install -g typescript
 
 tsc --watch
 
+tsc --build --clean
+
+
+npm init -y
+
+npm install --save-dev @types/node

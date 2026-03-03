@@ -1,3 +1,5 @@
+import fs from 'node:fs';
+
 let userName:string;
 
 userName='Ashik';
@@ -33,3 +35,5 @@ console.log(didProvideInput2);
 const didProvideInput3 = input ?? false;
 
 console.log(didProvideInput3);
+
+console.log(add(1,2));
